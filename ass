@@ -1,0 +1,14 @@
+package Assignment;
+
+public class Ass4 {
+public static void main(String[] args) {
+	int A=10,B=20;
+	if(A>B)
+	{
+		System.out.println("The largest number is : " +A);
+	}
+	else {
+		System.out.println("The largest number is : " +B );
+	}
+}
+}
